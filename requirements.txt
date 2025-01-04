@@ -1,4 +1,4 @@
-First, create a requirements.txt file to manage all the dependencies. This makes it easier to install all required libraries using pip.
+# First, create a requirements.txt file to manage all the dependencies. This makes it easier to install all required libraries using pip.
 pandas
 numpy
 scikit-learn
