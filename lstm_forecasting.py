@@ -1,3 +1,4 @@
+# This script builds, trains, and evaluates the LSTM model for price forecasting.
 # lstm_forecasting.py
 
 import pandas as pd
