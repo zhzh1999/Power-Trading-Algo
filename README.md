@@ -8,7 +8,15 @@ This project implements a power electricity trading algorithm using advanced mac
 
 ## Project Structure
 
-power_trading_algorithm/ │ ├── data_preprocessing.py ├── lstm_forecasting.py ├── trading_environment.py ├── drl_training.py ├── drl_evaluation.py ├── requirements.txt └── README.md
+power_trading_algorithm/ 
+│
+├── data_preprocessing.py 
+├── lstm_forecasting.py 
+├── trading_environment.py 
+├── drl_training.py 
+├── drl_evaluation.py 
+├── requirements.txt 
+└── README.md
 
 ## Setup Instructions
 
